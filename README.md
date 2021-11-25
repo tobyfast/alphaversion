@@ -7,7 +7,6 @@ back - s
 jump - space
 
 problems accounted for: 
-- trouble with script for scene changing start to main level
 - jumps needs to be limited
 - player doesn't move with moving platform
 - need to set a collider so when block is touched by player, 
@@ -21,4 +20,3 @@ possible improvments:
 - sound
 - better player model
 - improved level placement
-
